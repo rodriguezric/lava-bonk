@@ -95,8 +95,8 @@ clock = pygame.time.Clock()
 def main_scene():
     running = True
 
-    main_text = Text('PYGAPLAT1')
-    scrolling_text = ScrollingText('WELCOME TO THE FIRST EDITION')
+    main_text = Text('LAVA BONK')
+    scrolling_text = ScrollingText('THE STORY OF HOW WE FELL')
     enter_text = Text('PRESS ENTER TO BEGIN')
     cursor = 0
     while running:
